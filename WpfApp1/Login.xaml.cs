@@ -23,6 +23,18 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+
+            if(buttonklicklogin)
+            {
+                //schauen ob passwort gleich passwort und user gleich user
+
+                string connectionString = "";
+
+
+                User user = new User();
+                user.
+                
+            }
         }
     }
 }
